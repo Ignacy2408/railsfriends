@@ -2,4 +2,4 @@
 
 Hello my name is Ignacy Kedzierski
 
-This is my first App on ruby on rails
+This is my first App on ruby on rails 
